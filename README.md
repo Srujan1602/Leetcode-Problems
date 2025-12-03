@@ -1,3 +1,3 @@
 # Leetcode-Problems 
 <br>
-solutions
+solutions in C++ language
