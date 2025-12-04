@@ -1,5 +1,5 @@
 # Leetcode-Problems 
 <br>
-solutions in C++ language
+Solutions in C++ language
 <br>
 TOPIC : ARRAYS
